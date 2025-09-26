@@ -9,11 +9,8 @@ function Header() {
             </div>
 
             <nav className="flex items-center gap-5">
-                <a href="#">New</a>
-                <a href="#">Men</a>
-                <a href="#">Woman</a>
-                <a href="#">Accessories</a>
-                <a href="#">Sale</a>
+                <a href="#">Home</a>
+                <a href="#">Orders</a>
             </nav>
 
             <div className="flex items-center gap-5">
